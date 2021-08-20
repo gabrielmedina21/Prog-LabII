@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1629024936 source:c:\users\gabriel\desktop\tecnicatura universitaria en programación\programación ii\tp2_repaso_progii\mipila.c
+	"miPila.h"
+
+1628965545 c:\users\gabriel\desktop\tecnicatura universitaria en programación\programación ii\tp2_repaso_progii\mipila.h
+
+1628993281 source:c:\users\gabriel\desktop\tecnicatura universitaria en programación\programación ii\tp2_repaso_progii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"miPila.h"
+
+1629024936 source:c:\users\gabriel\desktop\tecnicatura universitaria en programación\1er año\2do cuatrimestre\programación y laboratorio ii\tp2_repaso_progii\mipila.c
+	"miPila.h"
+
+1628965545 c:\users\gabriel\desktop\tecnicatura universitaria en programación\1er año\2do cuatrimestre\programación y laboratorio ii\tp2_repaso_progii\mipila.h
+
+1629062914 source:c:\users\gabriel\desktop\tecnicatura universitaria en programación\1er año\2do cuatrimestre\programación y laboratorio ii\tp2_repaso_progii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"miPila.h"
+
