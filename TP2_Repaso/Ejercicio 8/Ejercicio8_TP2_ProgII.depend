@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1630103749 source:c:\users\gabriel\desktop\tecnicatura universitaria en programación\1er año\2do cuatrimestre\programación y laboratorio ii\ejercicio8_tp2_progii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
