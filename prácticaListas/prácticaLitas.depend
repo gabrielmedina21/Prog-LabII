@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630371416 source:c:\users\gabriel\desktop\tecnicatura universitaria en programación\1er año\2do cuatrimestre\programación y laboratorio ii\listas en c\prácticalitas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
